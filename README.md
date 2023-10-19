@@ -35,3 +35,5 @@ By iterating through potential solutions, we were able to identify portfolio com
 4. **Extended Optimization Algorithms**: Explore other opti ization algorithms for faster search of the problem space (LSTM have been applied to similar problems and have worked well).
 
 BBDC-OTcyODU5OTgzMDU0OoR7QbDK5c/Fgrd6FAjytveNvyCY
+
+BBDC-MjIzMTUwMDUwMjQ4OiYPhPy0crvw4bDwkit7xkqifLHW
