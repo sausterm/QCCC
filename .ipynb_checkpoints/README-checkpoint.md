@@ -34,4 +34,4 @@ By iterating through potential solutions, we were able to identify portfolio com
 3. **Hardware Integration**: Test on actual quantum hardware when available at scale.
 4. **Extended Optimization Algorithms**: Explore other opti ization algorithms for faster search of the problem space (LSTM have been applied to similar problems and have worked well).
 
-BBDC-OTcyODU5OTgzMDU0OoR7QbDK5c/Fgrd6FAjytveNvyCY
+XchWorLVrfWmusbwBfy8JXCL8QY76o3O0iEGyV
