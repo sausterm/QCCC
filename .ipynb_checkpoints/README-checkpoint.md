@@ -20,7 +20,6 @@ Quantum Computing promises to provide solutions to problems that are computation
 
 4. **QAOA Sampling**: We take many samples to statistically determine which bit string is most likely the optimal solution. The bit string that appears most frequently in the samples is considered the best approximation to the optimal portfolio combination.
 
-5. **Sharpe Ratio Calculation**: Post-optimization, we calculated the Sharpe ratio, a measure of the risk-adjusted return, for the obtained portfolio using the optimal bit string.
 
 
 ## Results
